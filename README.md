@@ -1,6 +1,6 @@
 # pyspark-docker
 
-My working directory for learning spark. No planned direction.
+My working directory for learning spark. No planned direction, but I may add here some scripts or solutions I find inspiring.
 
 Build container with:
 
